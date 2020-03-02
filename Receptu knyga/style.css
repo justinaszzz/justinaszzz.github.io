@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(247, 250, 216);
+}
+.antraste{
+    font-size: 30;
+}
+.pyragojpg{
+    width: 200px;
+}
+.spagetijpg{
+    width: 200px;
+}
+img{
+    border: solid black;
+    border-radius: 2px;
+}
+.pyragai{
+    font-size: 60px;
+}
+.spageciai{
+    font-size: 60px;
+}
+.vistienosjpg{
+    width: 200px;
+}
+.vistiena{
+    font-size: 60px;
+}
+table{
+    border: solid 1px;
+}
+td{
+    height: 100px;
+}
+#vardas{
+    position: absolute;
+    bottom: 0;
+}
+.pyragojpg2{
+    height: 40%;
+}
+.pyragop{
+    font-size: 24px;
+}
+.rusys{
+    font-size: 20px;
+}
+.pyragoimg{
+    height: 30%;
+}

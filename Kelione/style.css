@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(100, 93, 93);
+}
+ol{
+    font-size: 24px;
+}
+.pirma{
+    color: rgb(11, 161, 49);
+    font-size: 18px;
+}
+.antra{
+    color: rgb(133, 14, 14);
+    font-size: 20px;
+}
+img{
+    height: 30%;
+    border: solid black;
+    border-radius: 8px;
+}
+.trecia{
+    color: rgb(17, 17, 124);
+    font-size: 24px;
+}
+img:hover{
+    height:50%;
+    border: solid black;
+    border-radius: 8px;
+}
+#vardas{
+    color: white;
+    text-align: bottom; 
+    text-align: right;
+}
